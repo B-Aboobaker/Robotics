@@ -48,21 +48,27 @@ a. Turn the buzzer off. <br>
 This circuit uses an IR Remote to turn the LED RGB Red when the user presses 1, Green when the user presses 2 and Blue when the user presses 3 on the IR Remote.
 
 
-Screenshot of user pressing 1 on the IR Remote and the LED turning red: 
-<img src="assets/images" alt="">
+1. Screenshot of user pressing 1 on the IR Remote and the LED turning red: <br>
+<img src="assets/images/LEDRGB/LED1.png" alt="">
 
-Screenshot of user pressing 2 on the IR Remote and the LED turning green: 
-<img src="assets/images" alt="">
+2. Screenshot of user pressing 2 on the IR Remote and the LED turning green: <br>
+<img src="assets/images/LEDRGB/LED2.png" alt="">
 
-Screenshot of user pressing 3 on the IR Remote and the LED turning blue:
-<img src="assets/images" alt="">
+3. Screenshot of user pressing 3 on the IR Remote and the LED turning blue: <br>
+<img src="assets/images/LEDRGB/LED3.png" alt="">
 
-Picture of my design:
-<img src="assets/images" alt="">
+4. Picture of my design: <br>
+<img src="assets/images/LEDRGB/LED.png" alt="">
 
 
 ## MelodyCircuit.cpp
+The circuit should flash all of the LEDs and play a melody. After a few seconds, it will flash the first light in the pattern. If you repeat the pattern correctly by pressing the corresponding colored button, then the game will move to the next round and add another color to the pattern sequence. If you make a mistake, the “Game Over” melody will play. If you get to round 10, the “You Win” melody will play. Press any button to start a new game.
 
+Screenshot of gameplay: <br>
+<img src="assets/images/Melody/Melody1.png" alt="">
+
+Picture of my design: <br>
+<img src="assets/images/Melody/Melody.png" alt="">
 
 
 ## PasswordLCDCircuit.cpp

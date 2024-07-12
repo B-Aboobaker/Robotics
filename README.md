@@ -1,8 +1,8 @@
 # Robotics
-The repository showcases a few small projects that I've worked on, about Circuits (Arduino)
+This repository showcases small projects focused on circuits using Arduino.
 
 ## Context
-These simulations have been done on Tinkercad and the C++ Coding language has been used to program the outcomes
+These projects include simulations conducted on Tinkercad, with programming in C++ to control the outcomes
 
 ## Table of Contents
 - [Robotics](#robotics)
@@ -29,24 +29,24 @@ Use an Arduino IDE to create a digital trumpet the program should do the followi
 1. Check to see if the first button is pressed.  
 a. If it is, play the frequency for c.  
 b. If it isn’t, skip to the next **else if** statement. <br>
-<img src="assets/images/DigitalTrumpet/DT1.png" alt="">
+<img src="assets/images/DigitalTrumpet/DT1.png" alt="Digital Trumpet Circuit Image1">
 
 2. Check to see if the second button is pressed.  
 a. If it is, play the frequency for e.  
 b. If it isn’t, skip to the next **else if** statement. <br>
-<img src="assets/images/DigitalTrumpet/DT2.png" alt="">
+<img src="assets/images/DigitalTrumpet/DT2.png" alt="Digital Trumpet Circuit Image2">
 
 3. Check to see if the third button is pressed.  
 a. If it is, play the frequency for g.  
 b. If it isn’t, skip to the next **else if** statement. <br>
-<img src="assets/images/DigitalTrumpet/DT3.png" alt="">
+<img src="assets/images/DigitalTrumpet/DT3.png" alt="Digital Trumpet Circuit Image3">
 
 4. If none of the **if** statements are true  
 a. Turn the buzzer off. <br>
-<img src="assets/images/DigitalTrumpet/DT4.png" alt="">
+<img src="assets/images/DigitalTrumpet/DT4.png" alt="Digital Trumpet Circuit Image4">
 
 5. Picture of my design: <br>
-<img src="assets/images/DigitalTrumpet/DT.png" alt="">
+<img src="assets/images/DigitalTrumpet/DT.png" alt="Digital Trumpet Circuit Image">
 
 
 ## LEDRGBCircuit.cpp
@@ -54,41 +54,41 @@ a. Turn the buzzer off. <br>
 This circuit uses an IR Remote to turn the LED RGB Red when the user presses 1, Green when the user presses 2 and Blue when the user presses 3 on the IR Remote.
 
 1. Screenshot of user pressing 1 on the IR Remote and the LED turning red: <br>
-<img src="assets/images/LEDRGB/LED1.png" alt="">
+<img src="assets/images/LEDRGB/LED1.png" alt="LED RGB Circuit Image1">
 
 2. Screenshot of user pressing 2 on the IR Remote and the LED turning green: <br>
-<img src="assets/images/LEDRGB/LED2.png" alt="">
+<img src="assets/images/LEDRGB/LED2.png" alt="LED RGB Circuit Image2">
 
 3. Screenshot of user pressing 3 on the IR Remote and the LED turning blue: <br>
-<img src="assets/images/LEDRGB/LED3.png" alt="">
+<img src="assets/images/LEDRGB/LED3.png" alt="LED RGB Circuit Image3">
 
 4. Picture of my design: <br>
-<img src="assets/images/LEDRGB/LED.png" alt="">
+<img src="assets/images/LEDRGB/LED.png" alt="LED RGB Circuit Image">
 
 
 ## MelodyCircuit.cpp
 The circuit should flash all of the LEDs and play a melody. After a few seconds, it will flash the first light in the pattern. If you repeat the pattern correctly by pressing the corresponding colored button, then the game will move to the next round and add another color to the pattern sequence. If you make a mistake, the “Game Over” melody will play. If you get to round 10, the “You Win” melody will play. Press any button to start a new game.
 
 1. Screenshot of gameplay: <br>
-<img src="assets/images/Melody/Melody1.png" alt="">
+<img src="assets/images/Melody/Melody1.png" alt="Melody Circuit Image1">
 
 2. Picture of my design: <br>
-<img src="assets/images/Melody/Melody.png" alt="">
+<img src="assets/images/Melody/Melody.png" alt="Melody Circuit Image">
 
 
 ## PasswordLCDCircuit.cpp
 The circuit should allow the user to enter a password (Hidden), if its correct the LCD displays CORRECT and the LED turns Green. If its incorrect the LCD displays WRONG and the LED turns Red.
 
 1. Screenshot of first run: <br>
-<img src="assets/images/LCD/LCD1.png" alt="">
+<img src="assets/images/LCD/LCD1.png" alt="Password LCD Circuit Image1">
 
 2. Screenshot of user entering correct password and LED turning green: <br>
-a. <br> <img src="assets/images/LCD/LCD2.png" alt="" width="602"> <br>
-b. <br> <img src="assets/images/LCD/LCD3.png" alt="">
+a. <br> <img src="assets/images/LCD/LCD2.png" alt="Password LCD Circuit Image2" width="602"> <br>
+b. <br> <img src="assets/images/LCD/LCD3.png" alt="Password LCD Circuit Image3">
 
 3. Screenshot of user entering incorrect password and LED turning red: <br>
-a. <br> <img src="assets/images/LCD/LCD4.png" alt="" width="602"> <br>
-b. <br> <img src="assets/images/LCD/LCD5.png" alt="">
+a. <br> <img src="assets/images/LCD/LCD4.png" alt="Password LCD Circuit Image4" width="602"> <br>
+b. <br> <img src="assets/images/LCD/LCD5.png" alt="Password LCD Circuit Image5">
 
 4. Picture of my design: <br>
-<img src="assets/images/LCD/LCD.png" alt="">
+<img src="assets/images/LCD/LCD.png" alt="Password LCD Circuit Image">

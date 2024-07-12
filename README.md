@@ -17,21 +17,22 @@ Use an Arduino IDE to create a digital trumpet the program should do the followi
 ### Program Overview: 
 1. Check to see if the first button is pressed.  
 a. If it is, play the frequency for c.  
-b. If it isn’t, skip to the next **else if** statement. 
-
+b. If it isn’t, skip to the next **else if** statement. <br>
+<img src="assets/images/DT1.png" alt="">
 
 2. Check to see if the second button is pressed.  
 a. If it is, play the frequency for e.  
-b. If it isn’t, skip to the next **else if** statement. 
-
+b. If it isn’t, skip to the next **else if** statement. <br>
+<img src="assets/images/DT2.png" alt="">
 
 3. Check to see if the third button is pressed.  
 a. If it is, play the frequency for g.  
-b. If it isn’t, skip to the next **else if** statement. 
-
+b. If it isn’t, skip to the next **else if** statement. <br>
+<img src="assets/images/DT3.png" alt="">
 
 4. If none of the **if** statements are true  
-a. Turn the buzzer off. 
+a. Turn the buzzer off. <br>
+<img src="assets/images/DT4.png" alt="">
 
-
-5. Picture of my design:
+5. Picture of my design: <br>
+<img src="assets/images/DT.png" alt="">

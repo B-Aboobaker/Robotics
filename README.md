@@ -2,7 +2,7 @@
 The repository showcases a few small projects that I've worked on, about Circuits (Arduino)
 
 ## Context
-
+These simulations have been done on Tinkercad and the C++ Coding language has been used to program the outcomes
 
 ## Table of Contents
 
@@ -23,21 +23,46 @@ Use an Arduino IDE to create a digital trumpet the program should do the followi
 1. Check to see if the first button is pressed.  
 a. If it is, play the frequency for c.  
 b. If it isn’t, skip to the next **else if** statement. <br>
-<img src="assets/images/DT1.png" alt="">
+<img src="assets/images/DigitalTrumpet/DT1.png" alt="">
 
 2. Check to see if the second button is pressed.  
 a. If it is, play the frequency for e.  
 b. If it isn’t, skip to the next **else if** statement. <br>
-<img src="assets/images/DT2.png" alt="">
+<img src="assets/images/DigitalTrumpet/DT2.png" alt="">
 
 3. Check to see if the third button is pressed.  
 a. If it is, play the frequency for g.  
 b. If it isn’t, skip to the next **else if** statement. <br>
-<img src="assets/images/DT3.png" alt="">
+<img src="assets/images/DigitalTrumpet/DT3.png" alt="">
 
 4. If none of the **if** statements are true  
 a. Turn the buzzer off. <br>
-<img src="assets/images/DT4.png" alt="">
+<img src="assets/images/DigitalTrumpet/DT4.png" alt="">
 
 5. Picture of my design: <br>
-<img src="assets/images/DT.png" alt="">
+<img src="assets/images/DigitalTrumpet/DT.png" alt="">
+
+
+## LEDRGBCircuit.cpp
+
+This circuit uses an IR Remote to turn the LED RGB Red when the user presses 1, Green when the user presses 2 and Blue when the user presses 3 on the IR Remote.
+
+
+Screenshot of user pressing 1 on the IR Remote and the LED turning red: 
+<img src="assets/images" alt="">
+
+Screenshot of user pressing 2 on the IR Remote and the LED turning green: 
+<img src="assets/images" alt="">
+
+Screenshot of user pressing 3 on the IR Remote and the LED turning blue:
+<img src="assets/images" alt="">
+
+Picture of my design:
+<img src="assets/images" alt="">
+
+
+## MelodyCircuit.cpp
+
+
+
+## PasswordLCDCircuit.cpp

@@ -75,12 +75,16 @@ The circuit should allow the user to enter a password (Hidden), if its correct t
 
 
 1. Screenshot of first run: <br>
+<img src="assets/images/LCD/LCD1.png" alt="">
 
 
 2. Screenshot of user entering correct password and LED turning green: <br>
-
+a. <br> <img src="assets/images/LCD/LCD2.png" alt="" width="602"> <br>
+b. <br> <img src="assets/images/LCD/LCD3.png" alt="">
 
 3. Screenshot of user entering incorrect password and LED turning red: <br>
-
+a. <br> <img src="assets/images/LCD/LCD4.png" alt="" width="602"> <br>
+b. <br> <img src="assets/images/LCD/LCD5.png" alt="">
 
 4. Picture of my design: <br>
+<img src="assets/images/LCD/LCD.png" alt="">
